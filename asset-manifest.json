@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faltaai/static/css/main.45a363d8.css",
+    "main.js": "/Faltaai/static/js/main.d1464298.js",
+    "static/js/453.7ffff41a.chunk.js": "/Faltaai/static/js/453.7ffff41a.chunk.js",
+    "index.html": "/Faltaai/index.html",
+    "main.45a363d8.css.map": "/Faltaai/static/css/main.45a363d8.css.map",
+    "main.d1464298.js.map": "/Faltaai/static/js/main.d1464298.js.map",
+    "453.7ffff41a.chunk.js.map": "/Faltaai/static/js/453.7ffff41a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a363d8.css",
+    "static/js/main.d1464298.js"
+  ]
+}
