@@ -1,15 +1,20 @@
 {
-  "name": "Faltaí",
-  "short_name": "Faltaí",
-  "start_url": "/",
+  "short_name": "Faltáí",
+  "name": "Faltáí - Controle de Faltas",
+  "start_url": "/Faltai/",
   "display": "standalone",
-  "background_color": "#eff6ff",
+  "background_color": "#ffffff",
   "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "/favicon.ico",
-      "sizes": "64x64",
-      "type": "image/x-icon"
+      "src": "/Faltai/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Faltai/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
