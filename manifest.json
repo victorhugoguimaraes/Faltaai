@@ -1,22 +1,15 @@
 {
-  "short_name": "Faltai",
-  "name": "Faltai - Controle de Faltas",
+  "name": "Faltaí",
+  "short_name": "Faltaí",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eff6ff",
+  "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon.ico",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
     }
-  ],
-  "start_url": "https://victorhugoguimaraes.github.io/Faltaai/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1e40af",
-  "description": "Aplicativo para controlar suas faltas",
-  "orientation": "portrait"
+  ]
 }
