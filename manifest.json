@@ -3,12 +3,12 @@
   "name": "Faltaí - Controle de Faltas",
   "icons": [
     {
-      "src": "/Faltai/F.png",
+      "src": "%PUBLIC_URL%/F.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/Faltai/F.png",
+      "src": "%PUBLIC_URL%/F.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
